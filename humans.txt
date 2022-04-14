@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bryan Lizano blizano@cloudera.com
 
 # THANKS
 
